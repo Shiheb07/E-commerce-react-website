@@ -1,0 +1,198 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "blue shoes",
+      "img": "assets/img/product/product-1.jpg",
+      "price": 43,
+      "category": "Shoes Men",
+      "rate": 4.4,
+      "size": "M",
+      "brand": "Nike",
+      "description": "A pair of stylish blue shoes for men by Nike."
+    },
+    {
+      "id": 2,
+      "title": "Lauren Jacket",
+      "img": "assets/img/product/product-2.jpg",
+      "price": 67,
+      "category": "Women",
+      "rate": 4.1,
+      "size": "S",
+      "brand": "Ralph Lauren",
+      "description": "A fashionable Lauren jacket for women by Ralph Lauren."
+    },
+    {
+      "id": 3,
+      "title": "Basket",
+      "img": "assets/img/product/product-3.jpg",
+      "price": 97,
+      "category": "Shoes Men",
+      "rate": 4.7,
+      "size": "L",
+      "brand": "Adidas",
+      "description": "A pair of stylish basket shoes for men by Adidas."
+    },
+    {
+      "id": 4,
+      "title": "Hoodie",
+      "img": "assets/img/product/product-4.jpg",
+      "price": 60.9,
+      "category": "Clothing Men",
+      "rate": 4.7,
+      "size": "XL",
+      "brand": "Nike",
+      "description": "A comfortable hoodie for men by Nike."
+    },
+    {
+      "id": 5,
+      "title": "T-Shirt",
+      "img": "assets/img/product/product-5.jpg",
+      "price": 31.9,
+      "category": "Clothing Men",
+      "rate": 4.3,
+      "size": "M",
+      "brand": "Adidas",
+      "description": "A casual t-shirt for men by Adidas."
+    },
+    {
+      "id": 6,
+      "title": "Casual Trouser",
+      "img": "assets/img/product/product-6.jpg",
+      "price": 99.49,
+      "category": "Clothes",
+      "rate": 4,
+      "size": "L",
+      "brand": "Zara",
+      "description": "A pair of casual trousers for both men and women by Zara."
+    },
+    {
+      "id": 7,
+      "title": "Louis Vuitton Backpack",
+      "img": "assets/img/product/product-7.jpg",
+      "price": 49.99,
+      "category": "Bags",
+      "rate": 4.8,
+      "size": "N/A",
+      "brand": "Louis Vuitton",
+      "description": "A stylish backpack by Louis Vuitton."
+    },
+    {
+      "id": 8,
+      "title": "Polo Shirt",
+      "img": "assets/img/product/product-8.jpg",
+      "price": 59.99,
+      "category": "Clothes Men",
+      "rate": 4.6,
+      "size": "L",
+      "brand": "Ralph Lauren",
+      "description": "A classic polo shirt for men by Ralph Lauren."
+    },
+    {
+      "id": 9,
+      "title": "Flower T-shirt",
+      "img": "assets/img/product/product-9.jpg",
+      "price": 79.49,
+      "category": "Clothes Women",
+      "rate": 4.3,
+      "size": "S",
+      "brand": "Zara",
+      "description": "A floral print t-shirt for women by Zara."
+    },
+    {
+      "id": 10,
+      "title": "Abel Perfume",
+      "img": "assets/img/product/product-10.jpg",
+      "price": 39.99,
+      "category": "Women Accessories",
+      "rate": 4.2,
+      "size": "N/A",
+      "brand": "Abel",
+      "description": "A captivating perfume for women by Abel."
+    },
+    {
+      "id": 11,
+      "title": "White Bag",
+      "img": "assets/img/product/product-11.jpg",
+      "price": 90.49,
+      "category": "Bags",
+      "rate": 4.4,
+      "size": "N/A",
+      "brand": "Unknown",
+      "description": "A stylish white bag for both men and women."
+    },
+    {
+      "id": 12,
+      "title": "Casual Hoodie",
+      "img": "assets/img/product/product-12.jpg",
+      "price": 59.49,
+      "category": "Clothes men",
+      "rate": 4.6,
+      "size": "M",
+      "brand": "Zara",
+      "description": "A casual hoodie for men and women by Zara."
+    },
+    {
+      "id": 13,
+      "title": "Gucci Bag",
+      "img": "assets/img/product/product-13.jpg",
+      "price": 199.49,
+      "category": "Bags",
+      "rate": 4,
+      "size": "N/A",
+      "brand": "Gucci",
+      "description": "A luxurious bag by Gucci."
+    },
+    {
+      "id": 14,
+      "title": "Zara mens Earrings",
+      "img": "assets/img/product/product-14.jpg",
+      "price": 29.49,
+      "category": "Clothes men",
+      "rate": 4.3,
+      "size": "N/A",
+      "brand": "Zara",
+      "description": "Stylish earrings for men by Zara."
+    }
+  ],
+  "users": [
+    {
+      "first-name": "ttt",
+      "last-name": "ttt",
+      "country": "rttt",
+      "street-adresse": "gt",
+      "Apartment-adresse": "ff",
+      "town": "ee",
+      "state ": "eee",
+      "email": "a@g.c",
+      "password": "aaa",
+      "confirm-password": "aaa",
+      "id": 1
+    },
+    {
+      "first-name": "ttt",
+      "last-name": "ttt",
+      "country": "rttt",
+      "street-adresse": "gt",
+      "Apartment-adresse": "ff",
+      "town": "ee",
+      "state ": "eee",
+      "email": "a@g.c",
+      "password": "aaa",
+      "confirm-password": "aaa",
+      "id": 2
+    },
+    {
+      "first-name": "Shiheb ",
+      "last-name": "Dridi",
+      "country": "WCWXC",
+      "street-adresse": "chiheb",
+      "town": "sdqQD",
+      "state ": "sd",
+      "email": "chiheb.yuri@gmail.com",
+      "password": "123",
+      "confirm-password": "123",
+      "id": 3
+    }
+  ]
+}
